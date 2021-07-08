@@ -52,7 +52,7 @@ move RECITATION324_051.wav Š^‚ªƒsƒ‡ƒRƒsƒ‡ƒR”ò‚Ñ‰ñ‚Á‚Ä‚¢‚Ü‚·B.wav
 move RECITATION324_052.wav –‚‹«‚É‘«‚ð“¥‚Ý“ü‚ê‚éB.wav
 move RECITATION324_053.wav ƒ”ƒ@ƒ“ƒ_[ƒ”ƒHƒbƒgƒ^ƒCƒ€’†‚ÍA‚¢‚í‚ä‚éƒp[ƒeƒB[‚Ì‚æ‚¤‚Å°‚ê‚â‚©‚Å‚·B.wav
 move RECITATION324_054.wav ƒXƒsƒŠƒbƒc‚Æ‚Íö—¯Žð‚ÌŽ–‚Å‚·B.wav
-move RECITATION324_055.wav ƒkƒ‹ƒVƒA‚ÌƒxƒlƒfƒBƒNƒgƒDƒX‚ÍƒAƒ|ƒƒ“_“a‚ð‰ó‚µƒxƒlƒfƒBƒNƒg‰ï‚ÌC“¹‰@‚ðŒš‚Ä‚½B.wav
+move RECITATION324_055.wav ƒkƒ‹ƒVƒA‚ÌƒxƒlƒfƒBƒNƒgƒDƒX‚ÍƒAƒ|ƒƒ“_“a‚ð‰ó‚µAƒxƒlƒfƒBƒNƒg‰ï‚ÌC“¹‰@‚ðŒš‚Ä‚½B.wav
 move RECITATION324_056.wav ‚¿‚å‚¤‚Ç‚»‚Ì‚Æ‚«AƒfƒXƒgƒDƒp[ƒS‚ªƒRƒbƒv‚ð‚à‚Á‚Ä—§‚¿‚ ‚ª‚è‚Ü‚µ‚½B.wav
 move RECITATION324_057.wav ƒpƒtƒB[‚ÌƒOƒbƒY‚ªŽc‚ç‚¸•”‰®‚É—Ž‚¿’…‚¢‚½B.wav
 move RECITATION324_058.wav ƒGƒsƒtƒ@[ƒmƒt‚Íà•z‚ð–³‚­‚µ‚½B.wav
@@ -280,7 +280,7 @@ move RECITATION324_279.wav ƒLƒFƒ‹ƒcƒF‚ð’Ê‚Á‚ÄƒhƒrƒF‚ÉAƒUƒŠƒsƒF‚©‚çƒ~ƒFƒC‚És‚­
 move RECITATION324_280.wav ƒ}ƒŠƒA[ƒ“ƒXƒP[Eƒ‰[ƒYƒjƒF‚ð–K‚ê‚éB.wav
 move RECITATION324_281.wav “û‹‚ðŒ©‚È‚ª‚çAƒŒƒeƒ…‚Ì“ü‚Á‚½ƒsƒbƒcƒ@‚ðH‚×‚éB.wav
 move RECITATION324_282.wav ƒEƒhƒD‚Ì‘tŽÒ‚ðŽ{—Ã‚µ‚½B.wav
-move RECITATION324_283.wav ƒCƒ“ƒXƒeƒBƒeƒ…[ƒg‚ÅAƒŠƒfƒ…[ƒX‚Ì˜b‚Æ‡‚í‚¹‚ÄAƒ‹ƒfƒ…ƒbƒN‚Ì˜b‚à•·‚¢‚½B.wav
+move RECITATION324_283.wav ƒCƒ“ƒXƒeƒBƒeƒ…[ƒg‚ÅAƒŠƒfƒ…[ƒX‚Ì˜b‚Æ•¹‚¹‚ÄAƒ‹ƒfƒ…ƒbƒN‚Ì˜b‚à•·‚¢‚½B.wav
 move RECITATION324_284.wav ƒMƒFƒi[‚ðŒ©‚ÄƒCƒF[ƒC‚Æ‹©‚ÔB.wav
 move RECITATION324_285.wav ƒXƒB[ƒfƒB[‚ð•·‚«‚È‚ª‚çA‚Å‚á[‚±‚ñ‚ðH‚×‚éB.wav
 move RECITATION324_286.wav ƒeƒ‡‚³‚ñ‚ÍƒYƒB[ƒuƒ‰‚ðŒ©‚½B.wav

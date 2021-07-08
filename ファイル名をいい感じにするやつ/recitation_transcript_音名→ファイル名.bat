@@ -52,7 +52,7 @@ move 蛙がピョコピョコ飛び回っています。.wav RECITATION324_051.wav
 move 魔境に足を踏み入れる。.wav RECITATION324_052.wav
 move ヴァンダーヴォットタイム中は、いわゆるパーティーのようで晴れやかです。.wav RECITATION324_053.wav
 move スピリッツとは蒸留酒の事です。.wav RECITATION324_054.wav
-move ヌルシアのベネディクトゥスはアポロン神殿を壊しベネディクト会の修道院を建てた。.wav RECITATION324_055.wav
+move ヌルシアのベネディクトゥスはアポロン神殿を壊し、ベネディクト会の修道院を建てた。.wav RECITATION324_055.wav
 move ちょうどそのとき、デストゥパーゴがコップをもって立ちあがりました。.wav RECITATION324_056.wav
 move パフィーのグッズが残らず部屋に落ち着いた。.wav RECITATION324_057.wav
 move エピファーノフは財布を無くした。.wav RECITATION324_058.wav
@@ -280,7 +280,7 @@ move キェルツェを通ってドビェに、ザリピェからミェイに行く。.wav RECITATION324_27
 move マリアーンスケー・ラーズニェを訪れる。.wav RECITATION324_280.wav
 move 乳牛を見ながら、レテュの入ったピッツァを食べる。.wav RECITATION324_281.wav
 move ウドゥの奏者を施療した。.wav RECITATION324_282.wav
-move インスティテュートで、リデュースの話と合わせて、ルデュックの話も聞いた。.wav RECITATION324_283.wav
+move インスティテュートで、リデュースの話と併せて、ルデュックの話も聞いた。.wav RECITATION324_283.wav
 move ギェナーを見てイェーイと叫ぶ。.wav RECITATION324_284.wav
 move スィーディーを聞きながら、でゃーこんを食べる。.wav RECITATION324_285.wav
 move テョさんはズィーブラを見た。.wav RECITATION324_286.wav
